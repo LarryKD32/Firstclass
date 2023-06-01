@@ -1,1 +1,2 @@
 git init --------- we are togerter in this situation 
+git init ------- ella the love of my life, we are forever together
